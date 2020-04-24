@@ -1969,7 +1969,7 @@ h6{
     letter-spacing: 0;
     font-weight: 400;
 	font-family: 'Raleway', sans-serif;
-
+    
 }
 
 h1{
@@ -10606,6 +10606,9 @@ blockquote p{
     min-height: 980px;
 
 }
+
+
+
 .front{
     height: auto;
     width: auto;
