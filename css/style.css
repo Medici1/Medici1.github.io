@@ -2833,10 +2833,7 @@ h6{
 
 }
 
-.text-italic{
-	
 
-}
 
 
 .uk-label{
@@ -2846,13 +2843,8 @@ h6{
     text-transform: none;
 
 }
-
-
-
 /* Blockquote
 -------------------------*/
-
-
 blockquote{
 
     border-left: 3px solid;
