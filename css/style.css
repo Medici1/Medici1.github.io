@@ -388,6 +388,11 @@ p{
     line-height: 30px;
 
 }
+li{
+    font-size: 20px;
+    font-weight: 100;
+
+}
 
 b,
 strong{
